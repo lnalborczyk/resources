@@ -4,7 +4,7 @@ A list of useful resources for a modern and reproducible scientific workflow.
 
 ## Open science, a transparent and reproducible workflow
 
-The way we do science quickyl evolved during the last years. To tackle issues related to the [researcher degrees of freedom](https://journals.sagepub.com/doi/full/10.1177/0956797611417632), novel practises emerged. More precisely, it is now common practise to register in advance (i.e., before data collection) the hypotheses to be examined, the way data will be collected and analysed, etc. The following resources will guide you through these new practises and their practical implementation.
+The way we do research in Psychology quickly evolved during the last years. To tackle issues related to the [researcher degrees of freedom](https://journals.sagepub.com/doi/full/10.1177/0956797611417632), novel practises emerged. More precisely, it is now common practise to register in advance (i.e., before data collection) the hypotheses to be examined, the way data will be collected and analysed, etc. The following resources will guide you through these new practises and their practical implementation.
 
 ### Preregistration and (replication) registered reports
 
@@ -19,6 +19,10 @@ Using Git and Github, eventually from RStudio.
 * Curating Research Assets: A Tutorial on the Git Version Control System (Vuorre & Curley, [2018](https://journals.sagepub.com/doi/abs/10.1177/2515245918754826))
 
 * RStudio, Git and Github (Wickham, [2015](http://r-pkgs.had.co.nz/git.html))
+
+### Data collection
+
+...
 
 ### Analysing data
 
