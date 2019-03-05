@@ -1,6 +1,6 @@
 # A list of resources for students, collaborators (and myself)
 
-A list of useful resources for a modern, transparent and reproducible scientific workflow. These resources cover many stages of the scientific process from designing an experimental procedure to writing a report and collaborating with others. This list will be continuously updated. However, this list is not intended to be exhaustive. Rather, it aims to provide only a few essential resources for each section, in order to get acquainted with the topic.
+A list of useful resources for a modern, transparent and reproducible scientific workflow. These resources cover many stages of the scientific process from designing an experimental procedure to writing a report and collaborating with others. This list will be continuously updated. However, this list is not intended to be exhaustive. Instead, it aims to provide only a minimal set of essential resources to get acquainted with the topic (not more than five per secction).
 
 ## Open science, a transparent and reproducible workflow
 
