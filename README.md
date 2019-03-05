@@ -1,4 +1,4 @@
-# A list of resources for students, collaborators (and myself)
+# A minimal list of resources for students, collaborators (and myself)
 
 A list of useful resources for a modern, transparent and reproducible scientific workflow. These resources cover many stages of the scientific process from designing an experimental procedure to writing a report and collaborating with others. This list will be continuously updated. However, this list is not intended to be exhaustive. Instead, it aims to provide only a minimal set of essential resources to get acquainted with the topic (at most five resources per section).
 
@@ -7,6 +7,8 @@ A list of useful resources for a modern, transparent and reproducible scientific
 The way we do research in Psychology quickly evolved during the last decade. To tackle issues related to the [researcher degrees of freedom](https://journals.sagepub.com/doi/full/10.1177/0956797611417632) (amongst other things), novel practises emerged. For instance, it is now common practise to register in advance (i.e., before data collection) the hypotheses to be examined, the way data will be collected and analysed, etc. The following resources will guide you through these new practises and their practical implementation.
 
 ### Psychology's renaissance/crisis/revolution, an overview
+
+What happened during the last decade in Psychology ? For those who missed the party, the following resources cover the recent events and discuss their implications.
 
 * Psychology's Renaissance (Nelson, Simmons, & Simonsohn, [2018](https://www.annualreviews.org/doi/10.1146/annurev-psych-122216-011836))
 * Reproducibility of Scientific Results (Fidler, [2018](https://plato.stanford.edu/entries/scientific-reproducibility/))
