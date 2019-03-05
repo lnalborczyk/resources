@@ -1,10 +1,10 @@
 # A list of resources for students, collaborators (and myself)
 
-A list of useful resources for a modern and reproducible scientific workflow.
+A list of useful resources for a modern, transparent and reproducible scientific workflow. These resources cover many stages of the scientific process from designing an experimental procedure to writing a report and collaborating with others. This list will be continuously updated. However, this list is not intended to be exhaustive. Rather, it aims to provide only a few essential resources for each section, in order to get acquainted with the topic.
 
 ## Open science, a transparent and reproducible workflow
 
-The way we do research in Psychology quickly evolved during the last years. To tackle issues related to the [researcher degrees of freedom](https://journals.sagepub.com/doi/full/10.1177/0956797611417632), novel practises emerged. More precisely, it is now common practise to register in advance (i.e., before data collection) the hypotheses to be examined, the way data will be collected and analysed, etc. The following resources will guide you through these new practises and their practical implementation.
+The way we do research in Psychology quickly evolved during the last years. To tackle issues related to the [researcher degrees of freedom](https://journals.sagepub.com/doi/full/10.1177/0956797611417632), novel practises emerged. For instance, it is now common practise to register in advance (i.e., before data collection) the hypotheses to be examined, the way data will be collected and analysed, etc. The following resources will guide you through these new practises and their practical implementation.
 
 ### Preregistration and (replication) registered reports
 
