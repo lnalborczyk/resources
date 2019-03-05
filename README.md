@@ -6,6 +6,11 @@ A list of useful resources for a modern, transparent and reproducible scientific
 
 The way we do research in Psychology quickly evolved during the last decade. To tackle issues related to the [researcher degrees of freedom](https://journals.sagepub.com/doi/full/10.1177/0956797611417632) (amongst other things), novel practises emerged. For instance, it is now common practise to register in advance (i.e., before data collection) the hypotheses to be examined, the way data will be collected and analysed, etc. The following resources will guide you through these new practises and their practical implementation.
 
+### Psychology's renaissance/crisis/revolution, an overview
+
+* Psychology's Renaissance (Nelson, Simmons, & Simonsohn, [2018](https://www.annualreviews.org/doi/10.1146/annurev-psych-122216-011836))
+* Reproducibility of Scientific Results (Fidler, [2018](https://plato.stanford.edu/entries/scientific-reproducibility/))
+
 ### Preregistration and (replication) registered reports
 
 * The preregistration revolution [Nosek et al., 2018](https://www.pnas.org/content/115/11/2600)).
