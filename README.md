@@ -8,16 +8,17 @@ The way we do research in Psychology quickly evolved during the last decade. To 
 
 ### Psychology's renaissance/crisis/revolution, an overview
 
-What happened during the last decade in Psychology ? For those who missed the party, the following resources cover the recent events and discuss their implications.
+What happened during the last decade in Psychology? For those who missed the party, the following resources cover the recent events and discuss their implications.
 
 * Psychology's Renaissance (Nelson, Simmons, & Simonsohn, [2018](https://www.annualreviews.org/doi/10.1146/annurev-psych-122216-011836))
+
 * Reproducibility of Scientific Results (Fidler, [2018](https://plato.stanford.edu/entries/scientific-reproducibility/))
 
 ### Preregistration and (replication) registered reports
 
-* The preregistration revolution [Nosek et al., 2018](https://www.pnas.org/content/115/11/2600)).
+* The preregistration revolution (Nosek et al., [2018](https://www.pnas.org/content/115/11/2600)).
 
-* What are [registered reports](https://cos.io/rr/) ? 
+* What are [registered reports](https://cos.io/rr/)? 
 
 ### Version control and automation, a reproducible workflow
 
@@ -38,6 +39,7 @@ Using Git and Github, eventually from RStudio.
 ...
 
 * MOOC - Improving your statistical inferences (Lakens, [2017](https://www.coursera.org/learn/statistical-inferences))
+
 * Course - Statistical Rethinking: A Bayesian Course Using R and Stan (McElreath, [2019](https://github.com/rmcelreath/statrethinking_winter2019)).
 
 ## Writing empirical papers
@@ -48,7 +50,7 @@ Using Git and Github, eventually from RStudio.
 
 * Writing Empirical Articles: Transparency, Reproducibility, Clarity, and Memorability (Gernsbacher, [2018](https://journals.sagepub.com/doi/abs/10.1177/2515245918754485))
 
-*  Improving Scholarly Communication: An Online Course (Gernsbacher, [2013](https://osf.io/c4xyq/))
+* Improving Scholarly Communication: An Online Course (Gernsbacher, [2013](https://osf.io/c4xyq/))
 
 * Teaching Graduate Students How to Write Clearly (Wagenmakers, [2009](http://www.ejwagenmakers.com/2009/TeachingTipsWriting.pdf))
 
@@ -57,8 +59,11 @@ Using Git and Github, eventually from RStudio.
 ### Writing transparent and reproducible empirical papers
 
 * LaTex + Overleaf v2 permits to collaborate online on LaTex documents: https://www.overleaf.com/
+
 * Writing paper from RStudio in RMarkdown with the [papaja package](https://github.com/crsh/papaja) (APA6-formatted manuscripts)
 
 ## Large-scale collaborations
 
 ...
+
+* The Psychological Science Accelerator: Advancing Psychology through a Distributed Collaborative Network (Moshontz, H., Campbell, L., Ebersole, C. R., IJzerman, H., Urry, H. L., Forscher, P. S., ... Chartier, C. R., [2018](https://journals.sagepub.com/doi/10.1177/2515245918797607)) 
