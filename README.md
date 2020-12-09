@@ -1,6 +1,6 @@
-# A minimal list of resources for students, collaborators (and myself)
+# A minimal list of resources for students, collaborators, and myself
 
-A list of useful resources for a modern, transparent and reproducible scientific workflow. These resources cover many stages of the scientific process from designing an experimental procedure to writing a report and collaborating with others. This list will be continuously updated. However, this list is not intended to be exhaustive. Instead, it aims to provide only a minimal set of essential resources to get acquainted with the topic (at most five resources per section).
+A list of useful resources for a modern, transparent, and reproducible scientific workflow. These resources cover many stages of the scientific process from designing an experimental procedure to writing a report and collaborating with others. This list will be continuously updated. However, this list is not intended to be exhaustive. Instead, it aims to provide only a minimal set of essential resources to get acquainted with the topic (at most five resources per section).
 
 ## Open science, a transparent and reproducible workflow
 
@@ -32,9 +32,15 @@ Using Git and Github, eventually from RStudio.
 
 How should we determine the sample sitze of our study? Do we have to do it a priori or can we stop recruitment when we have sufficient evidence to conclude?
 
-* ...
+* When power analyses based on pilot data are biased: Inaccurate effect size estimators and follow-up bias (https://psyarxiv.com/b7z4q/)
 
-* A fully automatised, transparent, reproducible and blind protocol for sequential analyses (Beffara, Bret, & Nalborczyk, [2019](https://osf.io/mwtvk/)).
+* At what...
+
+* SBF...
+
+* BFDA Bayes factor design analysis: https://github.com/nicebread/BFDA
+
+* A fully automatised, transparent, reproducible and blind protocol for sequential analyses (Beffara, Bret, & Nalborczyk, [2020](https://osf.io/mwtvk/)).
 
 ### Analysing data
 
@@ -70,10 +76,10 @@ Introduction to Frequentist and Bayesian statistical modelling in R.
 
 ## Large-scale collaborations
 
-To counter the pervasive problem of under-powered experimental designes, researchers started to mutualise efforts to provide high-powered responses to debated questions in psychological researchers as well as to assess the generalisability of the findings. The idea is pretty simple: instead of running a single study in our lab, what if we could run the study in (let's say) 20 different labs all across the world?
+To counter the pervasive problem of low-powered experimental designs, researchers started to mutualise efforts to provide high-powered responses to debated questions in psychological researchers as well as to assess the generalisability of the findings. The idea is pretty simple: instead of running a single study in our lab, what if we could run the study in (let's say) 20 different labs all across the world?
 
-* Many-labs initiatives, such Many lab (1 to 5), many primates, many babies, and so on...
+* Many-labs initiatives, such [many lab (1 to 5)](https://osf.io/89vqh/), [many primates](https://manyprimates.github.io), [many babies](https://manybabies.github.io), and so on...
 
-* Study-swap: https://osf.io/meetings/studyswap/
+* Study-swap: a research community for sharing resources and collaborations (https://osf.io/meetings/studyswap/)
 
 * The Psychological Science Accelerator: Advancing Psychology through a Distributed Collaborative Network (Moshontz, H., Campbell, L., Ebersole, C. R., IJzerman, H., Urry, H. L., Forscher, P. S., ... Chartier, C. R., [2018](https://journals.sagepub.com/doi/10.1177/2515245918797607)) 
