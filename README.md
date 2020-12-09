@@ -2,7 +2,7 @@
 
 A list of useful resources for a modern, transparent, and reproducible scientific workflow. These resources cover many stages of the scientific process from designing an experimental procedure to writing a report and collaborating with others. This list will be continuously updated. However, this list is not intended to be exhaustive. Instead, it aims to provide only a minimal set of essential resources to get acquainted with the topic (at most five resources per section).
 
-## Open science, a transparent and reproducible workflow
+## Open science, a transparent, and reproducible workflow
 
 The way we do research in Psychology quickly evolved during the last decade. To tackle issues related to the [researcher degrees of freedom](https://journals.sagepub.com/doi/full/10.1177/0956797611417632) (amongst other things), novel practises emerged. For instance, it is now common practise to register in advance (i.e., before data collection) the hypotheses to be examined, the way data will be collected and analysed, etc. The following resources will guide you through these new practises and their practical implementation.
 
@@ -34,13 +34,13 @@ How should we determine the sample sitze of our study? Do we have to do it a pri
 
 * When power analyses based on pilot data are biased: Inaccurate effect size estimators and follow-up bias (https://psyarxiv.com/b7z4q/)
 
-* At what...
+* At what sample size do correlations stabilize? (Schönbrodt & Perugini, [2013](https://www.sciencedirect.com/science/article/abs/pii/S0092656613000858))
 
-* SBF...
+* Sequential hypothesis testing with Bayes factors: Efficiently testing mean differences (Schönbrodt, Wagenmakers, Zehetleitner, & Perugini, [2017](https://psycnet.apa.org/record/2015-56330-001)).
 
 * BFDA Bayes factor design analysis: https://github.com/nicebread/BFDA
 
-* A fully automatised, transparent, reproducible and blind protocol for sequential analyses (Beffara, Bret, & Nalborczyk, [2020](https://osf.io/mwtvk/)).
+* A fully automatised, transparent, reproducible and blind protocol for sequential analyses (Beffara, Bret, & Nalborczyk, [2020](https://psyarxiv.com/v7xpg/)).
 
 ### Analysing data
 
