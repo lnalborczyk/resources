@@ -28,19 +28,25 @@ Using Git and Github, eventually from RStudio.
 
 * RStudio, Git and Github (Wickham, [2015](http://r-pkgs.had.co.nz/git.html))
 
-### Data collection
+### Data collection (sensitivity and sequential analyses)
 
-...
+How should we determine the sample sitze of our study? Do we have to do it a priori or can we stop recruitment when we have sufficient evidence to conclude?
+
+* ...
 
 * A fully automatised, transparent, reproducible and blind protocol for sequential analyses (Beffara, Bret, & Nalborczyk, [2019](https://osf.io/mwtvk/)).
 
 ### Analysing data
 
-...
+Introduction to Frequentist and Bayesian statistical modelling in R.
+
+* Free and complete course in R programming at [Coursera](https://www.coursera.org/learn/r-programming)
 
 * MOOC - Improving your statistical inferences (Lakens, [2017](https://www.coursera.org/learn/statistical-inferences))
 
 * Course - Statistical Rethinking: A Bayesian Course Using R and Stan (McElreath, [2019](https://github.com/rmcelreath/statrethinking_winter2019)).
+
+* Introduction to Bayesian statistical modelling (20h doctoral course, in French) (Nalborczyk, [2020](https://github.com/lnalborczyk/IMSB2020))
 
 ## Writing empirical papers
 
@@ -64,6 +70,10 @@ Using Git and Github, eventually from RStudio.
 
 ## Large-scale collaborations
 
-...
+To counter the pervasive problem of under-powered experimental designes, researchers started to mutualise efforts to provide high-powered responses to debated questions in psychological researchers as well as to assess the generalisability of the findings. The idea is pretty simple: instead of running a single study in our lab, what if we could run the study in (let's say) 20 different labs all across the world?
+
+* Many-labs initiatives, such Many lab (1 to 5), many primates, many babies, and so on...
+
+* Study-swap: https://osf.io/meetings/studyswap/
 
 * The Psychological Science Accelerator: Advancing Psychology through a Distributed Collaborative Network (Moshontz, H., Campbell, L., Ebersole, C. R., IJzerman, H., Urry, H. L., Forscher, P. S., ... Chartier, C. R., [2018](https://journals.sagepub.com/doi/10.1177/2515245918797607)) 
