@@ -16,7 +16,7 @@ What happened during the last decade in Psychology? For those who missed the par
 
 ### Preregistration and (replication) registered reports
 
-* The preregistration revolution (Nosek et al., [2018](https://www.pnas.org/content/115/11/2600)).
+* The preregistration revolution (Nosek et al., [2018](https://www.pnas.org/content/115/11/2600))
 
 * What are [registered reports](https://cos.io/rr/)? 
 
@@ -40,7 +40,7 @@ How should we determine the sample sitze of our study? Do we have to do it a pri
 
 * BFDA Bayes factor design analysis: https://github.com/nicebread/BFDA
 
-* A fully automatised, transparent, reproducible and blind protocol for sequential analyses (Beffara, Bret, & Nalborczyk, [2020](https://psyarxiv.com/v7xpg/)).
+* A fully automatised, transparent, reproducible and blind protocol for sequential analyses (Beffara Bret, Beffara Bret, & Nalborczyk, [2021](https://open.lnu.se/index.php/metapsychology/article/view/869/2461)).
 
 ### Analysing data
 
@@ -50,9 +50,9 @@ Introduction to Frequentist and Bayesian statistical modelling in R.
 
 * MOOC - Improving your statistical inferences (Lakens, [2017](https://www.coursera.org/learn/statistical-inferences))
 
-* Course - Statistical Rethinking: A Bayesian Course Using R and Stan (McElreath, [2019](https://github.com/rmcelreath/statrethinking_winter2019)).
+* Course - Statistical Rethinking: A Bayesian Course Using R and Stan (McElreath, [2019](https://github.com/rmcelreath/statrethinking_winter2019))
 
-* Introduction to Bayesian statistical modelling (20h doctoral course, in French) (Nalborczyk, [2020](https://github.com/lnalborczyk/IMSB2020))
+* Introduction to Bayesian statistical modelling (20h doctoral course, in French) (Nalborczyk, [2021](https://github.com/lnalborczyk/IMSB2021))
 
 ## Writing empirical papers
 
