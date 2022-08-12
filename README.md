@@ -58,6 +58,8 @@ Introduction to Frequentist and Bayesian statistical modelling in R.
 
 ### Writing style
 
+* "Writing in the Sciences" MOOC: https://www.coursera.org/learn/sciwrite/
+
 * Writing and Revising, writing guide (Simmons, [2019](http://www.dansimons.com/resources/Simons_on_writing_1.5.pdf))
 
 * Writing Empirical Articles: Transparency, Reproducibility, Clarity, and Memorability (Gernsbacher, [2018](https://journals.sagepub.com/doi/abs/10.1177/2515245918754485))
