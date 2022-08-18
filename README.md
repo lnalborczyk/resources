@@ -1,6 +1,6 @@
 # A minimal list of resources for students, collaborators, and myself
 
-A list of useful resources for a modern, transparent, and reproducible scientific workflow. These resources cover many stages of the scientific process from designing an experimental procedure to writing a report and collaborating with others. This list will be continuously updated. However, this list is not intended to be exhaustive. Instead, it aims to provide only a minimal set of essential resources to get acquainted with the topic (at most five resources per section).
+A list of useful resources for a modern, transparent, and reproducible scientific workflow. These resources cover many stages of the scientific process from designing an experimental procedure to writing a report and collaborating with others. This list will be continuously updated. However, this list is not intended to be exhaustive. Instead, it aims to provide only a minimal set of essential resources to get acquainted with the topic.
 
 ## Open science, a transparent, and reproducible workflow
 
@@ -58,7 +58,7 @@ Introduction to Frequentist and Bayesian statistical modelling in R.
 
 ### Writing style
 
-* "Writing in the Sciences" MOOC: https://www.coursera.org/learn/sciwrite/
+* "Writing in the Sciences" MOOC (Sainani Kristin, 2017): https://www.coursera.org/learn/sciwrite/
 
 * Writing and Revising, writing guide (Simmons, [2019](http://www.dansimons.com/resources/Simons_on_writing_1.5.pdf))
 
@@ -69,6 +69,8 @@ Introduction to Frequentist and Bayesian statistical modelling in R.
 * Teaching Graduate Students How to Write Clearly (Wagenmakers, [2009](http://www.ejwagenmakers.com/2009/TeachingTipsWriting.pdf))
 
 * Writing the Empirical Journal Article (Bem, [2002](https://pdfs.semanticscholar.org/0403/b24ae2c7dbe81c05529436167646f1b21c08.pdf))
+
+* Strunk, William Jr. The Elements of Style. Pearson Education Limited (England, 2014).
 
 ### Writing transparent and reproducible empirical papers
 
